@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cici_profile.JPG"
+  avatar           : "cici_profile.png"
   name             : "CiCi Zheng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
